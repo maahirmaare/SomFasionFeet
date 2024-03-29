@@ -22,11 +22,14 @@ JavaScript: Implemented for interactive features and functionality, enhancing th
 Font Awesome: Integrated for the utilization of icons throughout the website.
 How to Use
 
+#Demo
 Clone the repository to your local machine.
 Open the index.html file in a web browser to access the website.
 Explore different sections of the website, browse through products, and add items to your cart for purchase.
 Demo
-You can view a live demo of the website here (replace "https://maahirmaare.github.io/SomFasionFeet/" with the actual live demo link).
+You can view a live demo of the website here (replace "" with the actual live demo link).
+You can view a live demo of the website [here](https://maahirmaare.github.io/SomFasionFeet/) (replace "#" with the actual live demo link).
+
 
 Contact
 For inquiries or support related to Somalia Fashion Feet, please reach out to us:
